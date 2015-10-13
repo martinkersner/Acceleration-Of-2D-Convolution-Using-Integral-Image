@@ -1,4 +1,4 @@
-### Acceleration of 2D Convolution Using Integral Image
+## Acceleration of 2D Convolution Using Integral Image
 
 Martin Kersner, <m.kersner@gmail.com>
 
